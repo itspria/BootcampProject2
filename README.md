@@ -50,5 +50,9 @@ There were 12 different csv files (1 per month)
 - In jupyter notebook create a connection to the database
 - Using python I loaded the dataframe into the SQL database
 
+### Findings
+-
+
+
 
 
