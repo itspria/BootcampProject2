@@ -37,14 +37,12 @@ There were 12 different csv files (1 per month)
 
 
 #### Transformation of Data
-- Vacations Rental Performance Data
 - Each of the 12 cvs files were uploaded into pandas
 - Code was written that would clean and transform each csv into a dataframe
 - Added columns to each dataframe indicating the month and year the data was from
 - Once data was cleaned it was appended together into one large dataframe to later add to the SQL database
 
 #### Loading of Data
-- Vacations Rental Performance Data
 - Create an SQL database to store the data in
 - Create a table schema within the database
 - In jupyter notebook create a connection to the database
@@ -52,6 +50,9 @@ There were 12 different csv files (1 per month)
 
 ### Findings
 - Locating two datasets that were related to each other but from different sources was slightly challenging
+- Struggled to find find an open weather API to find historical data trends in Hawai’i and decided to find a different source instead
+- Had to change data types as the data type of the data in the dataframe did not match the one in the newly created SQL table
+
 
 
 
