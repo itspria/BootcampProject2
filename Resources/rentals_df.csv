@@ -1,0 +1,121 @@
+,island_name,city,unit_supply,unit_demand,unit_occupancy,unit_avg_daily_rate,month,year
+0,State of Hawai'i,,"733,574","573,458",78.20%,$218.38,January,2019
+1,Oahu ,,"259,722","194,053",74.70%,$159.61,January,2019
+2,Oahu ,Waik'k' ,"99,260","77,152",77.70%,$150.37,January,2019
+3,Maui County,,"211,328","178,150",84.30%,$285.60,January,2019
+4,Maui County,Wailea/K'hei,"95,701","79,737",83.30%,$289.88,January,2019
+5,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"84,882","72,549",85.50%,$314.64,January,2019
+6,Island of Hawai'i,,"165,608","121,054",73.10%,$172.03,January,2019
+7,Island of Hawai'i,Kona,"81,233","64,244",79.10%,$146.83,January,2019
+8,Island of Hawai'i,Hilo/Honoka'a,"32,492","19,813",61.00%,$88.85,January,2019
+9,Kaua'i ,,"96,916","80,201",82.80%,$281.22,January,2019
+10,State of Hawai'i,,"618,826","509,305",82.30%,$216.56,Febuary,2019
+11,O'ahu ,,"225,185","182,026",80.80%,$158.34,Febuary,2019
+12,O'ahu ,Waik'k' ,"84,632","71,692",84.70%,$147.19,Febuary,2019
+13,Maui County,,"169,222","146,309",86.50%,$290.75,Febuary,2019
+14,Maui County,Wailea/K'hei,"75,855","65,606",86.50%,$297.06,Febuary,2019
+15,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"69,241","60,029",86.70%,$318.17,Febuary,2019
+16,Island of Hawai'i,,"140,425","109,264",77.80%,$167.74,Febuary,2019
+17,Island of Hawai'i,Kona,"66,873","56,401",84.30%,$142.59,Febuary,2019
+18,Island of Hawai'i,Hilo/Honoka'a,"29,313","19,669",67.10%,$86.58,Febuary,2019
+19,Kaua'i ,,"83,994","71,706",85.40%,$287.38,Febuary,2019
+20,State of Hawai'i,,"771,517","606,530",78.60%,$213.63,March,2019
+21,O'ahu ,,"272,595","207,956",76.30%,$159.93,March,2019
+22,O'ahu ,Waik'k',"107,241","84,408",78.70%,$142.01,March,2019
+23,Maui County,,"223,278","185,410",83.00%,$275.26,March,2019
+24,Maui County,Wailea/K'hei,"104,330","87,062",83.40%,$273.53,March,2019
+25,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"89,593","74,585",83.20%,$302.06,March,2019
+26,Island of Hawai'i,,"172,270","127,075",73.80%,$172.11,March,2019
+27,Island of Hawai'i,Kona,"83,489","66,318",79.40%,$142.99,March,2019
+28,Island of Hawai'i,Hilo/Honoka'a,"34,316","21,526",62.70%,$88.01,March,2019
+29,Kaua'i ,,"103,374","86,089",83.30%,$271.89,March,2019
+30,State of Hawai'i,,"846,411","618,628",73.10%,$204.50,April,2019
+31,O'ahu ,,"291,867","208,774",71.50%,$163.17,April,2019
+32,O'ahu ,Waik'k',"118,258","87,960",74.40%,$141.28,April,2019
+33,Maui County,,"257,736","202,217",78.50%,$247.45,April,2019
+34,Maui County,Wailea/K'hei,"122,382","97,154",79.40%,$235.68,April,2019
+35,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"103,529","81,216",78.40%,$277.96,April,2019
+36,Island of Hawai'i,,"185,721","120,458",64.90%,$162.86,April,2019
+37,Island of Hawai'i,Kona,"90,436","62,909",69.60%,$132.08,April,2019
+38,Island of Hawai'i,Hilo/Honoka'a,"34,608","19,893",57.50%,$89.84,April,2019
+39,Kaua'i ,,"111,087","87,179",78.50%,$261.37,April,2019
+40,State of Hawai'i,,"928,448","660,907",71.20%,$195.91,May,2019
+41,O'ahu ,,"317,725","228,042",71.80%,$163.10,May,2019
+42,O'ahu ,Waik'k' ,"129,655","98,482",76.00%,$142.65,May,2019
+43,Maui County,,"286,996","217,949",75.90%,$230.28,May,2019
+44,Maui County,Wailea/K'hei,"137,695","104,853",76.10%,$219.53,May,2019
+45,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"113,961","87,189",76.50%,$257.75,May,2019
+46,Island of Hawai'i,,"202,971","124,806",61.50%,$153.21,May,2019
+47,Island of Hawai'i,Kona,"99,190","65,927",66.50%,$126.26,May,2019
+48,Island of Hawai'i,Hilo/Honoka'a,"37,149","20,707",55.70%,$91.73,May,2019
+49,Kaua'i ,,"120,756","90,110",74.60%,$254.98,May,2019
+50,State of Hawai'i,,"885,949","653,059",73.70%,$203.35,June,2019
+51,O'ahu ,,"301,649","225,806",74.90%,$172.72,June,2019
+52,O'ahu ,Waik'k',"124,690","96,770",77.60%,$146.54,June,2019
+53,Maui County,,"275,399","213,881",77.70%,$232.24,June,2019
+54,Maui County,Wailea/K'hei,"132,984","104,251",78.40%,$221.03,June,2019
+55,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"108,768","85,508",78.60%,$261.40,June,2019
+56,Island of Hawai'i,,"191,023","123,874",64.80%,$161.77,June,2019
+57,Island of Hawai'i,Kona,"93,559","63,703",68.10%,$129.83,June,2019
+58,Island of Hawai'i,Hilo/Honoka'a,"34,831","20,538",59.00%,$92.90,June,2019
+59,Kaua'i ,,"117,878","89,498",75.90%,$269.15,June,2019
+60,State of Hawai'i,,"905,254","704,377",77.80%,$207.22,July,2019
+61,O'ahu ,,"298,595","239,586",80.20%,$178.81,July,2019
+62,O'ahu ,Waik'k',"127,477","105,270",82.60%,$153.65,July,2019
+63,Maui County,,"286,577","233,538",81.50%,$235.70,July,2019
+64,Maui County,Wailea/K'hei,"138,387","115,538",83.50%,$221.11,July,2019
+65,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"113,516","91,378",80.50%,$270.33,July,2019
+66,Island of Hawai'i,,"196,857","135,068",68.60%,$163.15,July,2019
+67,Island of Hawai'i,Kona,"97,367","70,319",72.20%,$131.96,July,2019
+68,Island of Hawai'i,Hilo/Honoka'a,"36,194","21,890",60.50%,$96.39,July,2019
+69,Kaua'i ,,"123,225","96,185",78.10%,$270.75,July,2019
+70,State of Hawai'i,,"917,218","681,490",74.30%,$204.29,August,2019
+71,O'ahu ,,"274,886","218,374",79.40%,$175.32,August,2019
+72,O'ahu ,Waik'k' ,"123,254","103,492",84.00%,$148.55,August,2019
+73,Maui County,,"305,246","236,235",77.40%,$233.41,August,2019
+74,Maui County,Wailea/K'hei,"146,389","115,313",78.80%,$221.34,August,2019
+75,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"122,904","94,740",77.10%,$262.43,August,2019
+76,Island of Hawai'i,,"204,690","131,841",64.40%,$159.10,August,2019
+77,Island of Hawai'i,Kona,"101,680","69,539",68.40%,$126.90,August,2019
+78,Island of Hawai'i,Hilo/Honoka?a,"36,842","21,226",57.60%,$94.94,August,2019
+79,Kaua'i ,,"132,396","95,040",71.80%,$261.15,August,2019
+80,State of Hawai'i,,"913,285","622,329",68.10%,$193.68,September,2019
+81,O'ahu ,,"241,811","175,705",72.70%,$159.73,September,2019
+82,O'ahu ,Waik'k' ,"122,474","96,277",78.60%,$139.56,September,2019
+83,Maui County,,"312,810","226,059",72.30%,$227.74,September,2019
+84,Maui County,Wailea/K'hei,"148,992","110,755",74.30%,$219.34,September,2019
+85,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"127,058","90,022",70.90%,$252.21,September,2019
+86,Island of Hawai'i,,"219,294","127,821",58.30%,$145.90,September,2019
+87,Island of Hawai'i,Kona,"102,068","63,738",62.40%,$121.78,September,2019
+88,Island of Hawai'i,Hilo/Honoka?a,"49,347","26,628",54.00%,$102.24,September,2019
+89,Kaua'i ,,"139,370","92,744",66.50%,$240.86,September,2019
+90,State of Hawai'i,,"949,704","689,669",72.60%,$191.76,October,2019
+91,O'ahu ,,"257,264","186,284",72.40%,$159.73,October,2019
+92,O'ahu ,Waik'k' ,"130,787","101,025",77.20%,$134.72,October,2019
+93,Maui County,,"323,332","255,485",79.00%,$224.24,October,2019
+94,Maui County,Wailea/K'hei,"153,072","124,187",81.10%,$214.11,October,2019
+95,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"131,778","102,523",77.80%,$250.99,October,2019
+96,Island of Hawai'i,,"225,100","143,702",63.80%,$147.81,October,2019
+97,Island of Hawai'i,Kona,"105,143","72,278",68.70%,$131.47,October,2019
+98,Island of Hawai'i,Hilo/Honoka?a,"49,966","29,154",58.30%,$93.29,October,2019
+99,Kaua'i ,,"144,008","104,198",72.40%,$229.97,October,2019
+100,State of Hawai'i,,"919,132","630,502",68.60%,$180.52,November,2019
+101,O'ahu ,,"252,415","170,326",67.50%,$146.00,November,2019
+102,O'ahu ,Waik'k' ,"126,534","91,125",72.00%,$115.70,November,2019
+103,Maui County,,"304,163","230,845",75.90%,$219.87,November,2019
+104,Maui County,Wailea/K'hei,"139,203","111,554",80.10%,$216.54,November,2019
+105,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"128,779","93,558",72.70%,$238.72,November,2019
+106,Island of Hawai'i,,"223,930","134,896",60.20%,$135.30,November,2019
+107,Island of Hawai'i,Kona,"106,215","69,796",65.70%,$108.56,November,2019
+108,Island of Hawai'i,Hilo/Honoka?a,"48,783","24,878",51.00%,$81.24,November,2019
+109,Kaua'i ,,"138,624","94,435",68.10%,$211.16,November,2019
+110,State of Hawai'i,,"856,798","645,575",75.30%,$234.20,December,2019
+111,O'ahu ,,"237,306","179,700",75.70%,$191.40,December,2019
+112,O'ahu ,Waik'k' ,"120,086","94,536",78.70%,$165.60,December,2019
+113,Maui County,,"293,100","231,419",79.00%,$278.36,December,2019
+114,Maui County,Wailea/K'hei,"134,565","111,356",82.80%,$265.49,December,2019
+115,Maui County,Lahaina/K'anapali/ N'pili/Kapalua,"123,342","93,086",75.50%,$314.29,December,2019
+116,Island of Hawai'i,,"204,394","146,841",71.80%,$181.46,December,2019
+117,Island of Hawai'i,Kona,"96,057","73,055",76.10%,$150.46,December,2019
+118,Island of Hawai'i,Hilo/Honoka?a,"45,053","29,739",66.00%,$107.79,December,2019
+119,Kaua'i ,,"121,998","87,615",71.80%,$293.75,December,2019
