@@ -48,10 +48,17 @@ There were 12 different csv files (1 per month)
 - In jupyter notebook create a connection to the database
 - Using python I loaded the dataframe into the SQL database
 
+### E-R Diagram
+TBD - The islands table with island code and name is in the future scope with more tables to be added.
+![WF Image](https://github.com/itspria/BootcampProject2/erd.PNG)
+
 ### Findings
 - Locating two datasets that were related to each other but from different sources was slightly challenging
 - Struggled to find find an open weather API to find historical data trends in Hawai’i and decided to find a different source instead
 - Had to change data types as the data type of the data in the dataframe did not match the one in the newly created SQL table
+- Understanding and interpreting the data, streamlining the interests was a challenge
+
+
 
 
 
