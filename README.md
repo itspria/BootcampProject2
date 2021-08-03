@@ -10,7 +10,7 @@ In this project, we extracted the data about visitors and accommodation in the H
 ### Data sources:
 
 http://dbedt.hawaii.gov/visitor/tourism/ 
-Infrastructure Research - Hawaii Tourism Authority
+https://hawaiitourismauthority.org/ 
 
 ### Priya - Visitor Trends
 
