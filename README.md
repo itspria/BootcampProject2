@@ -51,7 +51,7 @@ There were 12 different csv files (1 per month)
 - Using python I loaded the dataframe into the SQL database
 
 ### Findings
--
+-Locating two datasets that were related to each other but from different sources was slightly challenging
 
 
 
