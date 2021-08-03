@@ -12,7 +12,7 @@ In this project, we extracted the data about visitors and accommodation in the H
 http://dbedt.hawaii.gov/visitor/tourism/ 
 Infrastructure Research - Hawaii Tourism Authority
 
-###Priya - Visitor Trends
+### Priya - Visitor Trends
 
 #### Extract: 
 The excel document contains detailed report of the visitor details. Split up based on visitors by country to various islands, total expenditure, per person cost per day/trip, number of visiting days. The data was available for months, cumulative data for the year, comparisons to previous years. 
