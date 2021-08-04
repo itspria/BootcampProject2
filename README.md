@@ -31,18 +31,18 @@ The dataframe from pandas was loaded to its table.
 
 ### Rachel - Accomodations/Rentals
 
-#### Extraction of Data
+#### Extract:
 The first set of data was extracted from the Hawai’i Tourism Authority Website in the form of csv files on the Performance of Vacation Rentals in 2019
 There were 12 different csv files (1 per month)
 
 
-#### Transformation of Data
+#### Transform:
 - Each of the 12 cvs files were uploaded into pandas
 - Code was written that would clean and transform each csv into a dataframe
 - Added columns to each dataframe indicating the month and year the data was from
 - Once data was cleaned it was appended together into one large dataframe to later add to the SQL database
 
-#### Loading of Data
+#### Load:
 - Create an SQL database to store the data in
 - Create a table schema within the database
 - In jupyter notebook create a connection to the database
