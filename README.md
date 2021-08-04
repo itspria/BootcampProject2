@@ -61,11 +61,11 @@ TBD - The islands table with island code and name is in the future scope with mo
 
 ### Questions Answered by our Data
 
-If one were to compare our two tables they could find which months were less busy on certain islands in Hawaii. They could also find the different costs of accommodations on each island in any given month.
+From our two tables one could find which months were less busy on certain islands in Hawaii. They could also find the different costs of accommodations on each island in any given month.
 
 Thus they could find answers to these questions:
 
--	When is the right time to travel to Hawaii?
+-	When is the right time to travel to Hawaii based on certain criteria like cost of accomodations, cost of trip, visitors count?
 -	What would be the cost of travel?
 -	Is it easy to find accommodations during that time?
 
