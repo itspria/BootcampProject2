@@ -68,7 +68,7 @@ Thus they could find answers to these questions:
 -	When is the right time to travel to Hawaii based on certain criteria like cost of accomodations, cost of trip, visitors count?
 -	What would be the cost of travel?
 -	Is it easy to find accommodations during that time?
-
+- How many days should the trip be planned in specific months?
 
 
 
