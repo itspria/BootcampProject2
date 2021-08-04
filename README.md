@@ -50,7 +50,7 @@ There were 12 different csv files (1 per month)
 
 ### E-R Diagram
 TBD - The islands table with island code and name is in the future scope with more tables to be added.
-![erd.png]
+![ER Diagram](https://github.com/itspria/BootcampProject2.git/erd.png)
 
 
 ### Findings
