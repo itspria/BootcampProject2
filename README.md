@@ -59,7 +59,15 @@ TBD - The islands table with island code and name is in the future scope with mo
 - Had to change data types as the data type of the data in the dataframe did not match the one in the newly created SQL table
 - Understanding and interpreting the data, streamlining the interests was a challenge
 
+### Questions Answered by our Data
 
+If one were to compare our two tables they could find which months were less busy on certain islands in Hawaii. They could also find the different costs of accommodations on each island in any given month.
+
+Thus they could find answers to these questions:
+
+-	When is the right time to travel to Hawaii?
+-	What would be the cost of travel?
+-	Is it easy to find accommodations during that time?
 
 
 
