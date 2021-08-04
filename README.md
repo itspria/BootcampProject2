@@ -50,7 +50,8 @@ There were 12 different csv files (1 per month)
 
 ### E-R Diagram
 TBD - The islands table with island code and name is in the future scope with more tables to be added.
-![WF Image](https://github.com/itspria/BootcampProject2/erd.PNG)
+![WF Image](https://github.com/itspria/BootcampProject2/erd.png)
+
 
 ### Findings
 - Locating two datasets that were related to each other but from different sources was slightly challenging
